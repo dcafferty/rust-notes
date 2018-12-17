@@ -5,6 +5,7 @@ mod controls;
 mod enums;
 mod optionmod;
 mod arrays;
+mod vectors;
 
 use std::mem;
 
@@ -127,5 +128,6 @@ fn main() {
     // sh::structures();
     // enums::enums();
     // optionmod::option();
-    arrays::arrays();
+    // arrays::arrays();
+    vectors::vectors();
 }
