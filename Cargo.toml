@@ -1,0 +1,6 @@
+[package]
+name = "hello_caf"
+version = "0.1.0"
+authors = ["David Cafferty <dcafferty@salesforce.com>"]
+
+[dependencies]
